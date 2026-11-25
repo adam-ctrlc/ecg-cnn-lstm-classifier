@@ -1,0 +1,26 @@
+data:
+  root: data/raw/ptbxl
+  cache: data/processed
+  classes: [NORM, MI, STTC, CD, HYP]
+  fs: 100
+  leads: 12
+  samples: 1000
+  train_folds: [1, 2, 3, 4, 5, 6, 7, 8]
+  val_fold: 9
+  test_fold: 10
+model:
+  channels: [32, 64, 128, 128, 128]
+  kernels: [7, 5, 5, 3, 3]
+  lstm_hidden: 100
+  fc: 128
+  conv_dropout: 0.1
+  head_dropout: 0.5
+train:
+  batch_size: 40
+  epochs: 60
+  patience: 10
+  lr: 0.001
+  weight_decay: 0.01
+  noise: 0.05
+  lead_drop: 0.1
+  max_shift: 50

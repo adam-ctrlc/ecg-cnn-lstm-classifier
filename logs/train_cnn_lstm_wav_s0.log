@@ -1,0 +1,32 @@
+20261125-075037_cnn_lstm_wav_s0 | 363,525 parameters | train 17084 val 2146 test 2158 | mps
+epoch   1 train_loss 0.4234 val_loss 0.3817 val_macro_auc 0.8718 *
+epoch   2 train_loss 0.3534 val_loss 0.3295 val_macro_auc 0.8962 *
+epoch   3 train_loss 0.3318 val_loss 0.3032 val_macro_auc 0.9066 *
+epoch   4 train_loss 0.3176 val_loss 0.3056 val_macro_auc 0.9092 *
+epoch   5 train_loss 0.3093 val_loss 0.3157 val_macro_auc 0.9044
+epoch   6 train_loss 0.3006 val_loss 0.3012 val_macro_auc 0.9122 *
+epoch   7 train_loss 0.2954 val_loss 0.3006 val_macro_auc 0.9183 *
+epoch   8 train_loss 0.2897 val_loss 0.3033 val_macro_auc 0.9144
+epoch   9 train_loss 0.2870 val_loss 0.2985 val_macro_auc 0.9203 *
+epoch  10 train_loss 0.2848 val_loss 0.3497 val_macro_auc 0.9108
+epoch  11 train_loss 0.2794 val_loss 0.3134 val_macro_auc 0.9152
+epoch  12 train_loss 0.2764 val_loss 0.2822 val_macro_auc 0.9238 *
+epoch  13 train_loss 0.2755 val_loss 0.2947 val_macro_auc 0.9222
+epoch  14 train_loss 0.2730 val_loss 0.3265 val_macro_auc 0.9154
+epoch  15 train_loss 0.2717 val_loss 0.3015 val_macro_auc 0.9192
+epoch  16 train_loss 0.2719 val_loss 0.3044 val_macro_auc 0.9218
+epoch  17 train_loss 0.2678 val_loss 0.3184 val_macro_auc 0.9181
+epoch  18 train_loss 0.2601 val_loss 0.2914 val_macro_auc 0.9243 *
+epoch  19 train_loss 0.2565 val_loss 0.2895 val_macro_auc 0.9252 *
+epoch  20 train_loss 0.2540 val_loss 0.2844 val_macro_auc 0.9277 *
+epoch  21 train_loss 0.2549 val_loss 0.3029 val_macro_auc 0.9236
+epoch  22 train_loss 0.2551 val_loss 0.2956 val_macro_auc 0.9241
+epoch  23 train_loss 0.2536 val_loss 0.2844 val_macro_auc 0.9255
+epoch  24 train_loss 0.2502 val_loss 0.2881 val_macro_auc 0.9269
+epoch  25 train_loss 0.2504 val_loss 0.3073 val_macro_auc 0.9252
+epoch  26 train_loss 0.2468 val_loss 0.2973 val_macro_auc 0.9268
+epoch  27 train_loss 0.2432 val_loss 0.2999 val_macro_auc 0.9261
+epoch  28 train_loss 0.2433 val_loss 0.3056 val_macro_auc 0.9261
+epoch  29 train_loss 0.2416 val_loss 0.2974 val_macro_auc 0.9266
+epoch  30 train_loss 0.2408 val_loss 0.3086 val_macro_auc 0.9240
+TEST macro AUC 0.9249 CI [0.9171, 0.9322] PR-AUC 0.8236 F1 0.7482 | 374.0 s

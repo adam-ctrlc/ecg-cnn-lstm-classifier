@@ -1,0 +1,57 @@
+20261125-084835_cnn_lstm_peak_s1 | 363,525 parameters | train 17084 val 2146 test 2158 | mps
+epoch   1 train_loss 0.4231 val_loss 0.3730 val_macro_auc 0.8465 *
+epoch   2 train_loss 0.3661 val_loss 0.3542 val_macro_auc 0.8623 *
+epoch   3 train_loss 0.3474 val_loss 0.3500 val_macro_auc 0.8721 *
+epoch   4 train_loss 0.3330 val_loss 0.3303 val_macro_auc 0.8805 *
+epoch   5 train_loss 0.3219 val_loss 0.3105 val_macro_auc 0.8861 *
+epoch   6 train_loss 0.3167 val_loss 0.3083 val_macro_auc 0.8914 *
+epoch   7 train_loss 0.3091 val_loss 0.3148 val_macro_auc 0.8901
+epoch   8 train_loss 0.3051 val_loss 0.3003 val_macro_auc 0.8968 *
+epoch   9 train_loss 0.3003 val_loss 0.3291 val_macro_auc 0.8954
+epoch  10 train_loss 0.2968 val_loss 0.3075 val_macro_auc 0.8980 *
+epoch  11 train_loss 0.2948 val_loss 0.3109 val_macro_auc 0.8986 *
+epoch  12 train_loss 0.2909 val_loss 0.3004 val_macro_auc 0.9039 *
+epoch  13 train_loss 0.2890 val_loss 0.2964 val_macro_auc 0.9058 *
+epoch  14 train_loss 0.2874 val_loss 0.3019 val_macro_auc 0.9058
+epoch  15 train_loss 0.2858 val_loss 0.3063 val_macro_auc 0.9006
+epoch  16 train_loss 0.2816 val_loss 0.3146 val_macro_auc 0.9042
+epoch  17 train_loss 0.2805 val_loss 0.2966 val_macro_auc 0.9112 *
+epoch  18 train_loss 0.2787 val_loss 0.2913 val_macro_auc 0.9087
+epoch  19 train_loss 0.2787 val_loss 0.3097 val_macro_auc 0.9060
+epoch  20 train_loss 0.2744 val_loss 0.2977 val_macro_auc 0.9112 *
+epoch  21 train_loss 0.2744 val_loss 0.3225 val_macro_auc 0.9059
+epoch  22 train_loss 0.2719 val_loss 0.2979 val_macro_auc 0.9111
+epoch  23 train_loss 0.2645 val_loss 0.3113 val_macro_auc 0.9109
+epoch  24 train_loss 0.2624 val_loss 0.3067 val_macro_auc 0.9103
+epoch  25 train_loss 0.2614 val_loss 0.3025 val_macro_auc 0.9135 *
+epoch  26 train_loss 0.2595 val_loss 0.3224 val_macro_auc 0.9101
+epoch  27 train_loss 0.2583 val_loss 0.3028 val_macro_auc 0.9136 *
+epoch  28 train_loss 0.2565 val_loss 0.2954 val_macro_auc 0.9145 *
+epoch  29 train_loss 0.2568 val_loss 0.3083 val_macro_auc 0.9137
+epoch  30 train_loss 0.2562 val_loss 0.2995 val_macro_auc 0.9133
+epoch  31 train_loss 0.2577 val_loss 0.2953 val_macro_auc 0.9152 *
+epoch  32 train_loss 0.2544 val_loss 0.3098 val_macro_auc 0.9128
+epoch  33 train_loss 0.2543 val_loss 0.3039 val_macro_auc 0.9129
+epoch  34 train_loss 0.2509 val_loss 0.3059 val_macro_auc 0.9135
+epoch  35 train_loss 0.2523 val_loss 0.3036 val_macro_auc 0.9143
+epoch  36 train_loss 0.2520 val_loss 0.2921 val_macro_auc 0.9164 *
+epoch  37 train_loss 0.2512 val_loss 0.3118 val_macro_auc 0.9145
+epoch  38 train_loss 0.2493 val_loss 0.2911 val_macro_auc 0.9174 *
+epoch  39 train_loss 0.2497 val_loss 0.3037 val_macro_auc 0.9147
+epoch  40 train_loss 0.2473 val_loss 0.3057 val_macro_auc 0.9160
+epoch  41 train_loss 0.2464 val_loss 0.2955 val_macro_auc 0.9166
+epoch  42 train_loss 0.2466 val_loss 0.3032 val_macro_auc 0.9153
+epoch  43 train_loss 0.2443 val_loss 0.3351 val_macro_auc 0.9127
+epoch  44 train_loss 0.2390 val_loss 0.3044 val_macro_auc 0.9164
+epoch  45 train_loss 0.2384 val_loss 0.2999 val_macro_auc 0.9186 *
+epoch  46 train_loss 0.2384 val_loss 0.2943 val_macro_auc 0.9175
+epoch  47 train_loss 0.2371 val_loss 0.3048 val_macro_auc 0.9170
+epoch  48 train_loss 0.2385 val_loss 0.3045 val_macro_auc 0.9170
+epoch  49 train_loss 0.2359 val_loss 0.3081 val_macro_auc 0.9174
+epoch  50 train_loss 0.2366 val_loss 0.3028 val_macro_auc 0.9182
+epoch  51 train_loss 0.2354 val_loss 0.3034 val_macro_auc 0.9178
+epoch  52 train_loss 0.2315 val_loss 0.3057 val_macro_auc 0.9175
+epoch  53 train_loss 0.2313 val_loss 0.3088 val_macro_auc 0.9169
+epoch  54 train_loss 0.2316 val_loss 0.3053 val_macro_auc 0.9172
+epoch  55 train_loss 0.2318 val_loss 0.3093 val_macro_auc 0.9162
+TEST macro AUC 0.9116 CI [0.903, 0.92] PR-AUC 0.7911 F1 0.7243 | 444.4 s

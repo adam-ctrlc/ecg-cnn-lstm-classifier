@@ -1,0 +1,13 @@
+ecg_id,file,patient_id,fold,valid,problem,labelled,used,peak_uv,NORM,MI,STTC,CD,HYP
+9,00009_lr.wav,18792,10,True,,True,True,2168,1,0,0,0,0
+63,00063_lr.wav,15265,10,True,,True,True,1890,0,1,0,0,0
+65,00065_lr.wav,19170,10,True,,True,True,2026,0,0,0,1,0
+116,00116_lr.wav,19695,10,True,,True,True,1691,0,0,1,0,0
+162,00162_lr.wav,9780,10,True,,True,True,2612,0,1,1,1,1
+218,00218_lr.wav,13925,10,True,,True,True,1920,1,0,0,1,0
+271,00271_lr.wav,449,10,True,,True,True,2549,0,1,1,0,1
+299,00299_lr.wav,7852,10,True,,True,True,4304,0,0,1,0,1
+347,00347_lr.wav,449,10,True,,True,True,2119,0,0,1,1,1
+512,00512_lr.wav,16695,10,True,,True,True,3342,0,1,0,1,0
+527,00527_lr.wav,15828,10,True,,True,True,1314,0,0,1,1,0
+1219,01219_lr.wav,6184,10,True,,True,True,2437,0,0,0,0,1

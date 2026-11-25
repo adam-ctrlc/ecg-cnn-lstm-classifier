@@ -1,0 +1,30 @@
+20261125-072714_lstm_wav_s2 | 347,973 parameters | train 2340 val 374 test 398 | mps
+epoch   1 train_loss 0.5338 val_loss 0.4719 val_macro_auc 0.8187 *
+epoch   2 train_loss 0.4227 val_loss 0.3923 val_macro_auc 0.8441 *
+epoch   3 train_loss 0.3852 val_loss 0.3673 val_macro_auc 0.8636 *
+epoch   4 train_loss 0.3554 val_loss 0.3382 val_macro_auc 0.8784 *
+epoch   5 train_loss 0.3410 val_loss 0.3408 val_macro_auc 0.8829 *
+epoch   6 train_loss 0.3347 val_loss 0.3322 val_macro_auc 0.8850 *
+epoch   7 train_loss 0.3263 val_loss 0.3307 val_macro_auc 0.8870 *
+epoch   8 train_loss 0.3174 val_loss 0.3445 val_macro_auc 0.8826
+epoch   9 train_loss 0.3123 val_loss 0.3241 val_macro_auc 0.8902 *
+epoch  10 train_loss 0.3079 val_loss 0.3252 val_macro_auc 0.8850
+epoch  11 train_loss 0.3006 val_loss 0.3257 val_macro_auc 0.8905 *
+epoch  12 train_loss 0.2981 val_loss 0.3205 val_macro_auc 0.8925 *
+epoch  13 train_loss 0.2916 val_loss 0.3157 val_macro_auc 0.8924
+epoch  14 train_loss 0.2864 val_loss 0.3231 val_macro_auc 0.8955 *
+epoch  15 train_loss 0.2797 val_loss 0.3214 val_macro_auc 0.8958 *
+epoch  16 train_loss 0.2828 val_loss 0.3233 val_macro_auc 0.8937
+epoch  17 train_loss 0.2801 val_loss 0.3192 val_macro_auc 0.8918
+epoch  18 train_loss 0.2725 val_loss 0.3048 val_macro_auc 0.9011 *
+epoch  19 train_loss 0.2694 val_loss 0.3125 val_macro_auc 0.8956
+epoch  20 train_loss 0.2666 val_loss 0.3197 val_macro_auc 0.8966
+epoch  21 train_loss 0.2695 val_loss 0.3134 val_macro_auc 0.8990
+epoch  22 train_loss 0.2632 val_loss 0.3080 val_macro_auc 0.8979
+epoch  23 train_loss 0.2653 val_loss 0.3139 val_macro_auc 0.8959
+epoch  24 train_loss 0.2537 val_loss 0.3163 val_macro_auc 0.8978
+epoch  25 train_loss 0.2475 val_loss 0.3196 val_macro_auc 0.8967
+epoch  26 train_loss 0.2494 val_loss 0.3120 val_macro_auc 0.8963
+epoch  27 train_loss 0.2435 val_loss 0.3172 val_macro_auc 0.8970
+epoch  28 train_loss 0.2444 val_loss 0.3214 val_macro_auc 0.8951
+TEST macro AUC 0.8539 CI [0.8262, 0.8788] PR-AUC 0.6738 F1 0.6310 | 18.8 s
